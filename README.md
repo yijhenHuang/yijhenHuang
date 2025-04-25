@@ -41,7 +41,7 @@
 ## 📫 Let's connect!
 
 - GitHub: [github.com/yijhenHuang](https://github.com/yijhenHuang)
-- Email: (optional)
+
 
 ---
 
